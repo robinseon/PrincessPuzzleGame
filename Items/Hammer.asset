@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd1b6bc7d40bec47a690b773bf0f350, type: 3}
+  m_Name: Hammer
+  m_EditorClassIdentifier: 
+  id: 12
+  nameItem: Hammer
+  description: 1 stick+2 darkstone + 1 stone
+  image: {fileID: 21300000, guid: ac4bb4b3a712d3a4f93da35514107c94, type: 3}
+  uniqueobject: 1
+  usable: 1
+  quantity: 1
+  craftquantity: 0
+  crafted: 0
+  numberChild: 5
+  index: 4
